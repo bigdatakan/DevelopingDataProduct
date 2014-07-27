@@ -1,4 +1,4 @@
-Developing Data Products Course Project: Shiny Application and Reproducible Pitch
+Shiny Application and Reproducible Pitch
 =================================================================================
 
 Repository for Course Project for Developing Data Products on Coursera
